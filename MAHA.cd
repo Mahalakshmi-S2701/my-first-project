@@ -1,0 +1,7 @@
+# My Project
+This repository contains my project files and documtation.
+main program
+a = int(input("Enter frist number :"))
+b = int(input("Enter second number :"))
+sum = a+b
+  print("Total =",sum)
